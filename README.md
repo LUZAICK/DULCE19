@@ -61,10 +61,10 @@ Para detener al bot en termux
     "contribuidorxd": "502370000972
     "contactosd":  "+502 42725900"
     "contactosdd": "+502 42725900"
-    "sdcarduwu": "NOMBRE DEL CREADOR", (Poner su nombre real o su nickname ._.XD)
+    "sdcarduwu": "LUZ"
   "memberlimit": "LIMITE DE MIENBROS EN UN GRUPO", (Ejm: Cuando alguien agrege al bot a un grupo con menos de 2 integrantes automáticamente el bot se saldra del grupo, limite es desde 2 asta 257)
   "mensajes": "LIMITE DE USO PARA COMANDOS", (Aqui pueden poner el limite que quieran)
-  "namebotuwu": "NOMBRE DEL BOT" (Ponganle el name que quieran a su bot :3)
+  "namebotuwu": "LUZAICK"
 }
 ```
 
@@ -72,7 +72,7 @@ Para detener al bot en termux
 
 ```bash
 {
-    "bienbenida1": "HOLA BIENVENIDO ESPERO TE LA PASES A GUSTO EN ESTE GRUPO",
+    "bienbenida1": "🤗 HOLA BIENVENIDO ESPERO TE LA PASES A GUSTO EN ESTE GRUPO",
     "bienbenida2": "TEXTO NOMBRANDO AL NOMBRE DEL GRUPO",
     "bienbenida3": "FICHA DE PRESENTACIÓN",
     "bienbenida4": "TEXTO FINAL CUALQUIERA"
