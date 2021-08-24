@@ -38,15 +38,15 @@ Para nuevos desde cero en termux:
 ```
 ## Despues de tener todos los packs instalados en termux solo usen estos comandos para comenzar
 ```bash
-> git clone https://github.com/NeKosmic/NK-BOT 
-> cd NK-BOT
+> git clone  https://github.com/LUZAICK/DULCE19
+> cd DULCE19
 > bash install.sh
 > npm start/node nkbot.js 
 Para detener al bot en termux
 > Ctrl+c
 ⚡Si necesitas mas ayuda puedes contactarme 
-+51 995 386 439
-```
+
++50242725900
 ## Partes donde puedes editar al bot :v
 - Edicion de tu numero, nombre del bot, limite... [este archivo](https://github.com/NeKosmic/NeKosmic/blob/main/informacion.json)
 - Edicion de bienvenida automática [este archivo](https://github.com/NeKosmic/NeKosmic/blob/main/editbienbenida.json)
